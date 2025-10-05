@@ -14,10 +14,6 @@
       <Path>https://s3.regru.cloud/bruhrust-client/BRUHRUST/doorstop_config.ini</Path>
     </File>
     <File>
-      <Hash>34eeba94f1033bd91dfea36ca2fd5833df5f531f1c600766084b0c62b6e4ae88</Hash>
-      <Path>https://s3.regru.cloud/bruhrust-client/BRUHRUST/FolderLogger.exe</Path>
-    </File>
-    <File>
       <Hash>23f1012ddfeecc74f2a346074b575ba64b1351dfd976c742bb65dbe6f6f12ca7</Hash>
       <Path>https://s3.regru.cloud/bruhrust-client/BRUHRUST/GameAssembly.dll</Path>
     </File>
@@ -10310,4 +10306,5 @@
       <Path>https://s3.regru.cloud/bruhrust-client/BRUHRUST/workshop/8194150211/manifest.txt</Path>
     </File>
   </Files>
+
 </RepositoryHashMapping>
